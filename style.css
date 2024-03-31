@@ -37,3 +37,12 @@ a,a:visited{
 a:hover{
     color: lightgray;
 }
+
+.project-list{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.project-paragraph{
+    margin-left: 5%;
+}
