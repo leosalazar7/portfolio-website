@@ -4,8 +4,23 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    color: white;
 }
+
 .background{
     background-color: black;
+    color: white
+}
+
+.tabs{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-right: 10px;
+}
+
+.button{
+    display: flex;
+    /* align-items: center; */
+    /* justify-content: right; */
+    margin-right: 20px;
 }
