@@ -1,9 +1,14 @@
-.title{
+.main-title{
     display:flex;
     font-size: 30px;
     align-items: center;
     justify-content: center;
     height: 100vh;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
 }
 
 .background{
@@ -23,4 +28,13 @@
     /* align-items: center; */
     /* justify-content: right; */
     margin-right: 20px;
+}
+
+a,a:visited{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: lightgray;
 }
