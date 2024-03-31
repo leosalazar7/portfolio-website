@@ -5,6 +5,7 @@
     justify-content: center;
     height: 100vh;
     color: white;
+}
+.background{
     background-color: black;
-    border: none;
 }
